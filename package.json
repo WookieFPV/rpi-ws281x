@@ -1,5 +1,5 @@
 {
-  "name": "rpi-ws281x",
+  "name": "@wookiefpv/rpi-ws281x",
   "version": "1.0.36",
   "description": "rpi-ws281x",
   "main": "index.js",

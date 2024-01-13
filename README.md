@@ -1,5 +1,7 @@
 # rpi-ws281x
 
+I just forked the lib to add support for the pi zero w 2.
+
 This is a npm module for connecting a Raspbery Pi to Neopixel strips. It uses the 
 library from **jgarff** https://github.com/jgarff/rpi_ws281x.
 
